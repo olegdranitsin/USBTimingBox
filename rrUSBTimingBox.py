@@ -43,7 +43,7 @@ class rrUSB(object):
         sleep(0.2)
         self.conn.flushInput()
 
-        # Store static system information so it does not need to be requested later on.
+        # Store static system information.
         self.deviceID           = self.__deviceID__
         self.firmwareVersion    = self.__firmwareVersion__
         self.hardwareVersion    = self.__hardwareVersion__
