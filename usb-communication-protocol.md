@@ -1,1 +1,1 @@
-Download the Communication Protocol doucment here: https://www.raceresult.com/v11/en/support/documents/usb-communication-protocol.pdf
+Download the Communication Protocol document here: https://www.raceresult.com/v11/en/support/documents/usb-communication-protocol.pdf
