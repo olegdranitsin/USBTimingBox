@@ -61,8 +61,8 @@ class rrUSB(object):
         self.beaconErrors   = ""
         self.beaconWarnings = ""
 
-        # Store Time References
-        self.lastEpochRef, self.lastTickRef  = self.epochReferenceTime
+        # Create Time References on connection
+        self.CreateTimeReference();
 
         print self.warnings
         #Ready to go!
